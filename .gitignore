@@ -1,4 +1,4 @@
-ml_projects_venv
+ml_env/*
 data
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -118,6 +118,8 @@ Thumbs.db
 *.h5
 *.hdf5
 *.joblib
+*.npz
+*.npy
 
 # Data files (if they're large)
 *.csv
